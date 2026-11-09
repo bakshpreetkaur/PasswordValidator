@@ -1,0 +1,42 @@
+body {
+  font-family:  sans-serif;
+  background-color: #060606;
+  padding: 50px;
+  text-align: center;
+  color:white;
+  text-transform: uppercase;
+  
+
+}
+
+input {
+  border: 1px solid #ccc;
+
+  border-top: 600px;
+  padding: 20px;
+  font-size: 15px;
+  width: 200px;
+  height: 50px;
+  inline-size: 700px;
+  width: 100%;
+  margin-inline-end: auto;
+  margin-inline-start: auto;
+  border-radius: 0px;
+  border: none;
+  font-family:  sans-serif;
+  text-align: center;
+  width: 250px;
+  font-size: 25px;
+
+}
+
+.red {
+  font-weight: bold; 
+
+  color: rgb(190, 29, 29);
+}
+
+.green {
+  font-weight: bold;
+  color: rgb(29, 190, 29);
+}
